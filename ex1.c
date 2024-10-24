@@ -3,7 +3,7 @@
 
 int main(void){
 int n;
-printf("I chose a namber between one and five\nLets see if you can guess it??\n");
+printf("I chose a number between one and five\nLets see if you can guess it??\n");
 
 
 do{

@@ -18,3 +18,4 @@ if(strcmp(str , "cat") ==0){
   }
   }while(strcmp(str , "cat") !=0 && strcmp , (str , "dog" !=0));
   }
+// ı didnt know strcmp function before, but i learned it while ı did homework
